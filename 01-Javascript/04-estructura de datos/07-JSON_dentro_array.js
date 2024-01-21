@@ -1,0 +1,22 @@
+var agenda =[
+    {
+        "nombre":"Eugenio",
+        "telefono":"123456",
+        "email":[
+            "uge@eugenio.com",
+            "info@eugenio.com",
+            "hola@eugenio.com"
+        ]
+    },
+    {
+        "nombre":"Pepe",
+        "telefono":"56789",
+        "email":[
+            "uge@pepe.com",
+            "info@pepe.com",
+            "hola@pepe.com"
+        ]
+    }
+]
+console.log(agenda)
+console.table(agenda)
